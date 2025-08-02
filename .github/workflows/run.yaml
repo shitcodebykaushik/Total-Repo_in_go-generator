@@ -25,7 +25,8 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add README.md
-          git commit -m "Update README.md [auto]" || echo "No changes to commit"
+                git config --local user.email "41448663+BRAVO68WEB@users.noreply.github.com"
+                git config --local user.name "BRAVO68WEB"
+                git add README.md
+                git commit -m "Regenerated Readme"
+                git push
