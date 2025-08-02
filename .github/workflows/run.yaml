@@ -2,7 +2,7 @@ name: Daily Go Script Run
 
 on:
   schedule:
-    - cron: '0 9 * * *'
+    - cron: '20 14 * * *'
 
 jobs:
   run-daily-script:
