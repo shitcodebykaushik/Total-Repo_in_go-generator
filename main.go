@@ -66,8 +66,17 @@ func main() {
     fmt.Fprintf(file, "- [GitHub](https://github.com)\n")
     fmt.Fprintf(file, "- [Go Language](https://golang.org)\n\n")
 
-    now := time.Now().Format("02-01-2006 15:04:05")
+   // ...existing code...
+
+    // Set IST timezone
+    ist, err := time.LoadLocation("Asia/Kolkata")
+    if err != nil {
+        log.Fatalf("Failed to load IST timezone: %v", err)
+    }
+    now := time.Now().In(ist).Format("02-01-2006 15:04:05 MST")
     fmt.Fprintf(file, "##### _Last Run on %s_", now)
+
+// ...existing code...
 
     log.Println("README.md file generated successfully.")
 }
