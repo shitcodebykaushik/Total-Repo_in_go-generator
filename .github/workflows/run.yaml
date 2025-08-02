@@ -1,16 +1,16 @@
-name: Daily Go Script Run
+name: "Cron Job to regenerate Readme every 24 hours"
 
 on:
   schedule:
-    - cron: '*/2 * * * *'
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
 
 jobs:
-  run-daily-script:
+  build:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
       - name: Set up Go
         uses: actions/setup-go@v5
@@ -18,15 +18,15 @@ jobs:
           go-version: '1.22'
 
       - name: Build Go executable
-        run: go build main.go
+        run: go build -o main main.go
 
-      - name: Run the Go script
+      - name: Generate Readme
         run: ./main
 
-      - name: Commit and push changes
+      - name: Commit and Push changes
         run: |
-                git config --local user.email "41448663+BRAVO68WEB@users.noreply.github.com"
-                git config --local user.name "BRAVO68WEB"
-                git add README.md
-                git commit -m "Regenerated Readme"
-                git push
+          git config --local user.email "41448663+BRAVO68WEB@users.noreply.github.com"
+          git config --local user.name "BRAVO68WEB"
+          git add README.md
+          git commit -m "Regenerated Readme" || echo "No changes to commit"
+          git push
