@@ -4,7 +4,7 @@ This README is a dynamic list of popular Go projects fetched from the GitHub API
 
 Inspired by the 'rusty-alternatives' project.
 
-Total repositories created in Go: 1979180
+Total repositories created in Go: 1979193
 
 - [awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
@@ -81,8 +81,8 @@ Total repositories created in Go: 1979180
 - [trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [kit](https://github.com/go-kit/kit) - A standard library for microservices.
 - [fyne](https://github.com/fyne-io/fyne) - Cross platform GUI toolkit in Go inspired by Material Design
-- [glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms
+- [glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 - [opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
 - [loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
@@ -117,4 +117,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - [GitHub](https://github.com)
 - [Go Language](https://golang.org)
 
-##### _Last Run on 05-08-2025 00:56:51 IST_
+##### _Last Run on 05-08-2025 01:12:27 IST_
