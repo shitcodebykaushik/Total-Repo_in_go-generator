@@ -4,7 +4,7 @@ This README is a dynamic list of popular Go projects fetched from the GitHub API
 
 Inspired by the 'rusty-alternatives' project.
 
-Total repositories created in Go: 1982466
+Total repositories created in Go: 1983553
 
 - [ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 - [awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
@@ -100,8 +100,8 @@ Total repositories created in Go: 1982466
 - [testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library
 - [authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
 - [kratos](https://github.com/go-kratos/kratos) - Your ultimate Go microservices framework for the cloud-native era.
-- [colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
 - [rancher](https://github.com/rancher/rancher) - Complete container management platform
+- [colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
 - [cloudreve](https://github.com/cloudreve/cloudreve) - 🌩 Self-hosted file management and sharing system, supports multiple storage providers
 - [vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
 - [ngrok](https://github.com/inconshreveable/ngrok) - Unified ingress for developers
@@ -117,4 +117,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - [GitHub](https://github.com)
 - [Go Language](https://golang.org)
 
-##### _Last Run on 08-08-2025 04:15:43 IST_
+##### _Last Run on 09-08-2025 04:13:32 IST_
