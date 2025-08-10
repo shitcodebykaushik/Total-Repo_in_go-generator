@@ -4,7 +4,7 @@ This README is a dynamic list of popular Go projects fetched from the GitHub API
 
 Inspired by the 'rusty-alternatives' project.
 
-Total repositories created in Go: 1984543
+Total repositories created in Go: 1985369
 
 - [ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 - [awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
@@ -62,8 +62,8 @@ Total repositories created in Go: 1984543
 - [CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 - [cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.
 - [minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
-- [croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
+- [croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel provides an intuitive web interface and MCP Server to manage websites, files, containers, databases, and LLMs on a Linux server.
 - [Xray-core](https://github.com/XTLS/Xray-core) - Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.
@@ -101,8 +101,8 @@ Total repositories created in Go: 1984543
 - [authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
 - [kratos](https://github.com/go-kratos/kratos) - Your ultimate Go microservices framework for the cloud-native era.
 - [rancher](https://github.com/rancher/rancher) - Complete container management platform
-- [colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
 - [cloudreve](https://github.com/cloudreve/cloudreve) - 🌩 Self-hosted file management and sharing system, supports multiple storage providers
+- [colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
 - [vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
 - [ngrok](https://github.com/inconshreveable/ngrok) - Unified ingress for developers
 - [nuclei](https://github.com/projectdiscovery/nuclei) - Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.
@@ -117,4 +117,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - [GitHub](https://github.com)
 - [Go Language](https://golang.org)
 
-##### _Last Run on 10-08-2025 04:12:26 IST_
+##### _Last Run on 11-08-2025 04:12:21 IST_
