@@ -4,7 +4,7 @@ This README is a dynamic list of popular Go projects fetched from the GitHub API
 
 Inspired by the 'rusty-alternatives' project.
 
-Total repositories created in Go: 1987732
+Total repositories created in Go: 1988874
 
 - [ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 - [awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
@@ -80,16 +80,16 @@ Total repositories created in Go: 1987732
 - [podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
 - [trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [kit](https://github.com/go-kit/kit) - A standard library for microservices.
-- [fyne](https://github.com/fyne-io/fyne) - Cross platform GUI toolkit in Go inspired by Material Design
 - [glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
+- [fyne](https://github.com/fyne-io/fyne) - Cross platform GUI toolkit in Go inspired by Material Design
 - [go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms
 - [micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 - [opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
 - [loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
 - [Wox](https://github.com/Wox-launcher/Wox) - A cross-platform launcher that simply works
-- [faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
 - [sing-box](https://github.com/SagerNet/sing-box) - The universal proxy platform
+- [faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
 - [ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
 - [iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. New, modern and easy to learn. Fast development with Code you control. Unbeatable cost-performance ratio :rocket:
 - [docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker&Container technologies, with real DevOps practice!
@@ -117,4 +117,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - [GitHub](https://github.com)
 - [Go Language](https://golang.org)
 
-##### _Last Run on 13-08-2025 04:11:59 IST_
+##### _Last Run on 14-08-2025 04:10:42 IST_
