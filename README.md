@@ -4,7 +4,7 @@ This README is a dynamic list of popular Go projects fetched from the GitHub API
 
 Inspired by the 'rusty-alternatives' project.
 
-Total repositories created in Go: 1992805
+Total repositories created in Go: 1993900
 
 - [ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 - [awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
@@ -21,8 +21,8 @@ Total repositories created in Go: 1992805
 - [act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
-- [traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
+- [traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
 - [rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
@@ -62,8 +62,8 @@ Total repositories created in Go: 1992805
 - [CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 - [cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.
 - [croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
-- [minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
 - [filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
+- [minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
 - [1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel provides an intuitive web interface and MCP Server to manage websites, files, containers, databases, and LLMs on a Linux server.
 - [k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [Xray-core](https://github.com/XTLS/Xray-core) - Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.
@@ -87,13 +87,13 @@ Total repositories created in Go: 1992805
 - [opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
 - [loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
-- [Wox](https://github.com/Wox-launcher/Wox) - A cross-platform launcher that simply works
 - [sing-box](https://github.com/SagerNet/sing-box) - The universal proxy platform
+- [Wox](https://github.com/Wox-launcher/Wox) - A cross-platform launcher that simply works
 - [faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
 - [ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
 - [iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. New, modern and easy to learn. Fast development with Code you control. Unbeatable cost-performance ratio :rocket:
-- [docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker&Container technologies, with real DevOps practice!
 - [seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com.
+- [docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker&Container technologies, with real DevOps practice!
 - [nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
 - [logrus](https://github.com/sirupsen/logrus) - Structured, pluggable logging for Go.
 - [dapr](https://github.com/dapr/dapr) - Dapr is a portable runtime for building distributed applications across cloud and edge, combining event-driven architecture with workflow orchestration.
@@ -104,8 +104,8 @@ Total repositories created in Go: 1992805
 - [rancher](https://github.com/rancher/rancher) - Complete container management platform
 - [colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
 - [vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
-- [ngrok](https://github.com/inconshreveable/ngrok) - Unified ingress for developers
 - [nuclei](https://github.com/projectdiscovery/nuclei) - Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.
+- [ngrok](https://github.com/inconshreveable/ngrok) - Unified ingress for developers
 
 
 ## License
@@ -117,4 +117,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - [GitHub](https://github.com)
 - [Go Language](https://golang.org)
 
-##### _Last Run on 18-08-2025 04:11:59 IST_
+##### _Last Run on 19-08-2025 04:09:31 IST_
