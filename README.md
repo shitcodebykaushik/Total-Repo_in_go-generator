@@ -4,7 +4,7 @@ This README is a dynamic list of popular Go projects fetched from the GitHub API
 
 Inspired by the 'rusty-alternatives' project.
 
-Total repositories created in Go: 1993900
+Total repositories created in Go: 1994955
 
 - [ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 - [awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
@@ -70,8 +70,8 @@ Total repositories created in Go: 1993900
 - [headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
 - [lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
-- [restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
 - [AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
+- [restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
 - [wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
 - [viper](https://github.com/spf13/viper) - Go configuration with fangs
@@ -117,4 +117,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - [GitHub](https://github.com)
 - [Go Language](https://golang.org)
 
-##### _Last Run on 19-08-2025 04:09:31 IST_
+##### _Last Run on 20-08-2025 04:10:21 IST_
