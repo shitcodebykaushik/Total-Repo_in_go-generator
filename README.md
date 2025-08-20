@@ -4,7 +4,7 @@ This README is a dynamic list of popular Go projects fetched from the GitHub API
 
 Inspired by the 'rusty-alternatives' project.
 
-Total repositories created in Go: 1994955
+Total repositories created in Go: 1996090
 
 - [ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 - [awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
@@ -76,8 +76,8 @@ Total repositories created in Go: 1994955
 - [consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
 - [viper](https://github.com/spf13/viper) - Go configuration with fangs
 - [k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript
-- [helm](https://github.com/helm/helm) - The Kubernetes Package Manager
 - [podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
+- [helm](https://github.com/helm/helm) - The Kubernetes Package Manager
 - [trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [kit](https://github.com/go-kit/kit) - A standard library for microservices.
 - [glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
@@ -117,4 +117,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - [GitHub](https://github.com)
 - [Go Language](https://golang.org)
 
-##### _Last Run on 20-08-2025 04:10:21 IST_
+##### _Last Run on 21-08-2025 04:09:36 IST_
