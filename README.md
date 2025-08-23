@@ -4,7 +4,7 @@ This README is a dynamic list of popular Go projects fetched from the GitHub API
 
 Inspired by the 'rusty-alternatives' project.
 
-Total repositories created in Go: 1998159
+Total repositories created in Go: 1999149
 
 - [ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 - [awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
@@ -79,8 +79,8 @@ Total repositories created in Go: 1998159
 - [podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
 - [helm](https://github.com/helm/helm) - The Kubernetes Package Manager
 - [trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-- [kit](https://github.com/go-kit/kit) - A standard library for microservices.
 - [glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
+- [kit](https://github.com/go-kit/kit) - A standard library for microservices.
 - [fyne](https://github.com/fyne-io/fyne) - Cross platform GUI toolkit in Go inspired by Material Design
 - [go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms
 - [micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
@@ -89,23 +89,23 @@ Total repositories created in Go: 1998159
 - [harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
 - [sing-box](https://github.com/SagerNet/sing-box) - The universal proxy platform
 - [Wox](https://github.com/Wox-launcher/Wox) - A cross-platform launcher that simply works
-- [faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
 - [ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
+- [faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
 - [seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com.
 - [iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. New, modern and easy to learn. Fast development with Code you control. Unbeatable cost-performance ratio :rocket:
 - [docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker&Container technologies, with real DevOps practice!
 - [nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
 - [logrus](https://github.com/sirupsen/logrus) - Structured, pluggable logging for Go.
 - [dapr](https://github.com/dapr/dapr) - Dapr is a portable runtime for building distributed applications across cloud and edge, combining event-driven architecture with workflow orchestration.
-- [testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library
 - [authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
+- [testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library
 - [kratos](https://github.com/go-kratos/kratos) - Your ultimate Go microservices framework for the cloud-native era.
 - [cloudreve](https://github.com/cloudreve/cloudreve) - 🌩 Self-hosted file management and sharing system, supports multiple storage providers
 - [rancher](https://github.com/rancher/rancher) - Complete container management platform
 - [colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
 - [nuclei](https://github.com/projectdiscovery/nuclei) - Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.
 - [vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
-- [ngrok](https://github.com/inconshreveable/ngrok) - Unified ingress for developers
+- [tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
 
 
 ## License
@@ -117,4 +117,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - [GitHub](https://github.com)
 - [Go Language](https://golang.org)
 
-##### _Last Run on 23-08-2025 04:09:23 IST_
+##### _Last Run on 24-08-2025 04:08:40 IST_
