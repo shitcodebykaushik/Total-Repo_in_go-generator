@@ -4,7 +4,7 @@ This README is a dynamic list of popular Go projects fetched from the GitHub API
 
 Inspired by the 'rusty-alternatives' project.
 
-Total repositories created in Go: 2004430
+Total repositories created in Go: 2005379
 
 - [ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 - [awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
@@ -21,8 +21,8 @@ Total repositories created in Go: 2004430
 - [act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
-- [mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
+- [mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
 - [rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
@@ -32,8 +32,8 @@ Total repositories created in Go: 2004430
 - [go-ethereum](https://github.com/ethereum/go-ethereum) - Go implementation of the Ethereum protocol
 - [alist](https://github.com/AlistGo/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
 - [gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
-- [v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions.
 - [terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions.
 - [lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [memos](https://github.com/usememos/memos) - A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations.
 - [build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) - A golang ebook intro how to build a web with golang
@@ -65,8 +65,8 @@ Total repositories created in Go: 2004430
 - [filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
 - [croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [Xray-core](https://github.com/XTLS/Xray-core) - Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.
-- [minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
 - [k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
+- [minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
 - [headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
 - [lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
@@ -117,4 +117,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - [GitHub](https://github.com)
 - [Go Language](https://golang.org)
 
-##### _Last Run on 29-08-2025 04:08:45 IST_
+##### _Last Run on 30-08-2025 04:08:08 IST_
