@@ -4,7 +4,7 @@ This README is a dynamic list of popular Go projects fetched from the GitHub API
 
 Inspired by the 'rusty-alternatives' project.
 
-Total repositories created in Go: 2005379
+Total repositories created in Go: 2006105
 
 - [ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 - [awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
@@ -58,8 +58,8 @@ Total repositories created in Go: 2005379
 - [beego](https://github.com/beego/beego) - beego is an open-source, high-performance web framework for the Go programming language.
 - [v2ray-core](https://github.com/v2fly/v2ray-core) - A platform for building proxies to bypass network restrictions.
 - [go-zero](https://github.com/zeromicro/go-zero) - A cloud-native Go microservices framework with cli tool for productivity.
-- [echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
 - [CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
+- [echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
 - [cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.
 - [1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel provides an intuitive web interface and MCP Server to manage websites, files, containers, databases, and LLMs on a Linux server.
 - [filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
@@ -104,8 +104,8 @@ Total repositories created in Go: 2005379
 - [rancher](https://github.com/rancher/rancher) - Complete container management platform
 - [colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
 - [nuclei](https://github.com/projectdiscovery/nuclei) - Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.
-- [vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
 - [tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
+- [vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
 
 
 ## License
@@ -117,4 +117,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - [GitHub](https://github.com)
 - [Go Language](https://golang.org)
 
-##### _Last Run on 30-08-2025 04:08:08 IST_
+##### _Last Run on 31-08-2025 04:07:26 IST_
