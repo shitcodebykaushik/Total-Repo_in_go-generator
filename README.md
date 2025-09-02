@@ -4,7 +4,7 @@ This README is a dynamic list of popular Go projects fetched from the GitHub API
 
 Inspired by the 'rusty-alternatives' project.
 
-Total repositories created in Go: 2007889
+Total repositories created in Go: 2008917
 
 - [ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 - [awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
@@ -85,8 +85,8 @@ Total repositories created in Go: 2007889
 - [go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms
 - [micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 - [opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
-- [loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
+- [loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [sing-box](https://github.com/SagerNet/sing-box) - The universal proxy platform
 - [Wox](https://github.com/Wox-launcher/Wox) - A cross-platform launcher that simply works
 - [ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
@@ -117,4 +117,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - [GitHub](https://github.com)
 - [Go Language](https://golang.org)
 
-##### _Last Run on 02-09-2025 04:08:16 IST_
+##### _Last Run on 03-09-2025 04:06:49 IST_
