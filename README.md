@@ -4,7 +4,7 @@ This README is a dynamic list of popular Go projects fetched from the GitHub API
 
 Inspired by the 'rusty-alternatives' project.
 
-Total repositories created in Go: 2008917
+Total repositories created in Go: 2009956
 
 - [ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 - [awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
@@ -66,8 +66,8 @@ Total repositories created in Go: 2008917
 - [Xray-core](https://github.com/XTLS/Xray-core) - Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.
 - [croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
-- [minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
 - [headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
+- [minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
 - [k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
 - [lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
 - [AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
@@ -101,9 +101,9 @@ Total repositories created in Go: 2008917
 - [dapr](https://github.com/dapr/dapr) - Dapr is a portable runtime for building distributed applications across cloud and edge, combining event-driven architecture with workflow orchestration.
 - [kratos](https://github.com/go-kratos/kratos) - Your ultimate Go microservices framework for the cloud-native era.
 - [cloudreve](https://github.com/cloudreve/cloudreve) - 🌩 Self-hosted file management and sharing system, supports multiple storage providers
+- [nuclei](https://github.com/projectdiscovery/nuclei) - Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.
 - [rancher](https://github.com/rancher/rancher) - Complete container management platform
 - [colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
-- [nuclei](https://github.com/projectdiscovery/nuclei) - Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.
 - [tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
 - [vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
 
@@ -117,4 +117,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - [GitHub](https://github.com)
 - [Go Language](https://golang.org)
 
-##### _Last Run on 03-09-2025 04:06:49 IST_
+##### _Last Run on 04-09-2025 04:07:20 IST_
