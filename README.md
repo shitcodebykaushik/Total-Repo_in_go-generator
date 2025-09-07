@@ -4,7 +4,7 @@ This README is a dynamic list of popular Go projects fetched from the GitHub API
 
 Inspired by the 'rusty-alternatives' project.
 
-Total repositories created in Go: 2012776
+Total repositories created in Go: 2013710
 
 - [ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 - [awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
@@ -75,9 +75,9 @@ Total repositories created in Go: 2012776
 - [restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
 - [consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
 - [viper](https://github.com/spf13/viper) - Go configuration with fangs
-- [k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript
-- [podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
 - [trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+- [podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
+- [k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript
 - [helm](https://github.com/helm/helm) - The Kubernetes Package Manager
 - [glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [kit](https://github.com/go-kit/kit) - A standard library for microservices.
@@ -93,8 +93,8 @@ Total repositories created in Go: 2012776
 - [faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
 - [seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com.
 - [iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. New, modern and easy to learn. Fast development with Code you control. Unbeatable cost-performance ratio :rocket:
-- [docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker&Container technologies, with real DevOps practice!
 - [nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
+- [docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker&Container technologies, with real DevOps practice!
 - [logrus](https://github.com/sirupsen/logrus) - Structured, pluggable logging for Go.
 - [authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
 - [testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library
@@ -103,8 +103,8 @@ Total repositories created in Go: 2012776
 - [kratos](https://github.com/go-kratos/kratos) - Your ultimate Go microservices framework for the cloud-native era.
 - [nuclei](https://github.com/projectdiscovery/nuclei) - Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.
 - [rancher](https://github.com/rancher/rancher) - Complete container management platform
-- [colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
 - [tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
+- [colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
 - [vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
 
 
@@ -117,4 +117,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - [GitHub](https://github.com)
 - [Go Language](https://golang.org)
 
-##### _Last Run on 07-09-2025 04:06:20 IST_
+##### _Last Run on 08-09-2025 04:06:50 IST_
