@@ -4,7 +4,7 @@ This README is a dynamic list of popular Go projects fetched from the GitHub API
 
 Inspired by the 'rusty-alternatives' project.
 
-Total repositories created in Go: 1994406
+Total repositories created in Go: 1995517
 
 - [awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
@@ -64,9 +64,9 @@ Total repositories created in Go: 1994406
 - [1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel provides an intuitive web interface and MCP Server to manage websites, files, containers, databases, and LLMs on a Linux server.
 - [Xray-core](https://github.com/XTLS/Xray-core) - Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.
 - [filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
+- [k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
-- [k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
 - [k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
 - [lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
@@ -105,7 +105,7 @@ Total repositories created in Go: 1994406
 - [tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
 - [rancher](https://github.com/rancher/rancher) - Complete container management platform
 - [colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
-- [vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
+- [colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
 
 
 ## License
@@ -117,4 +117,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - [GitHub](https://github.com)
 - [Go Language](https://golang.org)
 
-##### _Last Run on 14-09-2025 04:06:00 IST_
+##### _Last Run on 15-09-2025 04:06:12 IST_
